@@ -55,7 +55,7 @@
 <td align="center"><img src="https://n8n.io/favicon.ico" width="40"/><br>n8n</td>
 </tr>
 </table>
-
+---
 
 ### 📚 Currently Learning
 - Advanced MERN Stack Development  
@@ -73,9 +73,9 @@
 ---
 
 ### 🌐 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: Add your LinkedIn link  
-- 🌍 Portfolio: Add your portfolio link  
+- 📧 Email: prasannasriram333@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/prasannasubramani
+- 🌍 Portfolio: https://prasanna-s-portfolio.netlify.app/ 
 
 ---
 
