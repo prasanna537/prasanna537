@@ -56,7 +56,7 @@
 </tr>
 </table>
 
-<br clear="right"/>  
+
 ---
 
 ### 📚 Currently Learning
