@@ -34,27 +34,28 @@
 
 ---
 
-### 🧰 Languages & Tools  
+## 🧰 Languages & Tools  
 
-**Frontend:**  
-HTML, CSS, JavaScript, React.js, Tailwind CSS  
+<table align="center">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br>CSS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>React</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP</td>
+</tr>
 
-**Backend:**  
-PHP, Node.js, Express.js  
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/><br>WordPress</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
+<td align="center"><img src="https://n8n.io/favicon.ico" width="40"/><br>n8n</td>
+</tr>
+</table>
 
-**Database:**  
-MySQL, MongoDB  
-
-**Frameworks & CMS:**  
-WordPress, Elementor, FlutterFlow  
-
-**Tools & Platforms:**  
-Git, GitHub, Docker (Basics), Postman, n8n, Framer  
-
-**Other Skills:**  
-AJAX, MVC Architecture, REST APIs, UI/UX Design  
-
----
 
 ### 📚 Currently Learning
 - Advanced MERN Stack Development  
