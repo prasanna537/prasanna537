@@ -1,87 +1,201 @@
 <h1 align="center">Hi 👋, I'm Prasanna S</h1>
-<h3 align="center">Full Stack Developer | PHP MVC | MERN Stack | AI Automation Enthusiast</h3>
+
+<h3 align="center">Full Stack Developer | Data & AI Enthusiast | DevOps Learner</h3>
+
+<p align="center">
+  Building scalable web applications, data workflows, AI-powered systems, and automation solutions.
+</p>
 
 ---
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding GIF">
 
-### 💼 About Me  
-- 💻 Full Stack Developer passionate about building scalable web applications  
-- 🌱 Currently learning and building projects using **MERN Stack**, **PHP MVC**, and **AI-powered tools**  
-- 🔧 Experienced in **WordPress Development**, plugin customization, and UI design  
-- 🤖 Exploring **AI Automation**, **n8n workflows**, and intelligent content generation systems  
-- 📊 Strong interest in system design, backend logic, and performance optimization  
+### 💼 About Me
 
-<br clear="right"/>  
+- 💻 Full Stack Developer experienced in building **web applications and backend systems**
+- 🚀 Working with **React, Next.js, Node.js, Express.js, and MongoDB**
+- 🌐 Experienced in **WordPress Development and WooCommerce**
+- 🐍 Learning and applying **Python, SQL, Data Engineering, and Machine Learning**
+- ⚙️ Exploring **Apache Airflow, ETL workflows, Docker, and cloud technologies**
+- 🤖 Building **AI-powered applications and workflow automation**
+- 🧠 Interested in **Data Engineering, AI/ML, system design, and backend architecture**
+- ☁️ Exploring **cloud technologies and DevOps** for application deployment
 
----
-
-### 🚀 Projects
-- 📚 **Book Inventory System**  
-  Built using PHP MVC, PDO, AJAX Live Search — includes CRUD operations and search optimization  
-
-- 🎓 **Student Result Management System**  
-  Developed using PHP MVC, MySQL, AJAX for dynamic data handling  
-
-- 💰 **Daily Expense Tracker (MERN Stack)**  
-  A full-stack web app for monitoring daily expenses with React frontend and Node.js backend  
-
-- 🧠 **AI Resume Generator**  
-  Streamlit-based AI project that enhances user input, generates ATS-friendly resumes, and exports PDFs  
-
-- 🛒 **AI Virtual Shopping Assistant**  
-  Built using n8n workflows with Telegram bot integration and AI-based responses  
+<br clear="right"/>
 
 ---
 
-## 🧰 Languages & Tools  
+## 🚀 Featured Projects
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br>CSS</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>React</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP</td>
-</tr>
+### 📊 Entity Resolution & Data Matching System
 
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>MySQL</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/><br>WordPress</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
-<td align="center"><img src="https://n8n.io/favicon.ico" width="40"/><br>n8n</td>
-</tr>
-</table>
+- Developed an entity resolution pipeline for matching records across datasets
+- Implemented **normalization, blocking, candidate generation, and matching**
+- Evaluated model performance using **F0.5, precision, recall, and blocking recall**
+- Worked with large-scale candidate generation and validation workflows
 
+### 💰 Daily Expense Tracker
+
+- Full-stack application built using the **MERN stack**
+- React frontend with Node.js/Express backend
+- MongoDB-based data storage
+- Designed for tracking and managing daily expenses
+
+### 🤖 AI Resume Generator
+
+- Built an AI-powered resume generation application
+- Uses **Python, Streamlit, and Gemini API**
+- Generates structured, ATS-friendly resume content
+- Supports PDF-based resume generation
+
+### 🏋️ Gym Management System
+
+- Full-stack gym management platform with an admin dashboard
+- Member registration, membership plans, expiry tracking, and reminders
+- Dashboard for active, expired, and total members
+- Exploring **Next.js, Node.js, PostgreSQL, Prisma, and automation**
 
 ---
 
-### 📚 Currently Learning
-- Advanced MERN Stack Development  
-- AI Workflow Automation  
-- DevOps Fundamentals  
-- System Design Concepts  
+## 🧰 Languages & Technologies
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+### 🌐 Full Stack Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
+
+### 📊 Data & AI
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- ETL / ELT
+- Data Processing
+- Entity Resolution
+- Machine Learning
+- AI Applications
+
+### ⚙️ Data Engineering & DevOps
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+
+- Apache Airflow
+- ETL Workflow Orchestration
+- Docker
+- Git & GitHub
+- REST APIs
+- Cloud Deployment
+- n8n Automation
+
+### 🛠️ Other Technologies
+
+- WordPress
+- WooCommerce
+- AJAX
+- Figma
+- Framer
+- Vercel
+- Netlify
 
 ---
 
-### 📊 GitHub Stats
+## 📚 Currently Learning
+
+- 🐍 Advanced Python
+- 📊 Data Engineering
+- 🔄 ETL Pipeline Development
+- 🌬️ Apache Airflow
+- 🐳 Docker & DevOps
+- ☁️ Cloud Engineering
+- 🤖 Machine Learning & AI
+- 🏗️ System Design
+- 🧩 Data Structures & Algorithms
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer & DevOps Engineer — SkillHive Innovations
+
+- Developing modern web applications using **React, Next.js, Node.js, and TypeScript**
+- Working with backend APIs, databases, deployment, and automation
+- Contributing to scalable application architecture and development workflows
+
+### WordPress Developer
+
+- Developed and customized **WordPress and WooCommerce websites**
+- Worked with plugins, APIs, responsive UI, and custom functionality
+- Implemented website customization, performance improvements, and e-commerce features
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasanna537&theme=tokyonight" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasanna537&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
-- 📧 Email: prasannasriram333@gmail.com 
-- 💼 LinkedIn: https://www.linkedin.com/in/prasannasubramani
-- 🌍 Portfolio: https://prasanna-s-portfolio.netlify.app/ 
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/prasannasubramani">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://prasanna-s-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+</a>
+
+</p>
+
+📧 **Email:** prasannasriram333@gmail.com
+
+---
+
+## 🎯 Career Interests
+
+**Full Stack Development • Data Engineering • AI/ML • DevOps • Cloud Engineering**
 
 ---
 
 ### ✨ Motto
+
 <p align="center">
-  <i>"Consistent learning and building real-world projects is the fastest way to mastery."</i>
+  <i>"Learn continuously. Build consistently. Solve real-world problems."</i>
 </p>
